@@ -1,0 +1,14 @@
+C:\Users\Rucha.Varma\source\repos\IOCbyUnityContainerAssignment\IOCbyUnityContainerAssignment\bin\Debug\IOCbyUnityContainerAssignment.exe.config
+C:\Users\Rucha.Varma\source\repos\IOCbyUnityContainerAssignment\IOCbyUnityContainerAssignment\bin\Debug\IOCbyUnityContainerAssignment.exe
+C:\Users\Rucha.Varma\source\repos\IOCbyUnityContainerAssignment\IOCbyUnityContainerAssignment\bin\Debug\IOCbyUnityContainerAssignment.pdb
+C:\Users\Rucha.Varma\source\repos\IOCbyUnityContainerAssignment\IOCbyUnityContainerAssignment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rucha.Varma\source\repos\IOCbyUnityContainerAssignment\IOCbyUnityContainerAssignment\bin\Debug\Unity.Abstractions.dll
+C:\Users\Rucha.Varma\source\repos\IOCbyUnityContainerAssignment\IOCbyUnityContainerAssignment\bin\Debug\Unity.Container.dll
+C:\Users\Rucha.Varma\source\repos\IOCbyUnityContainerAssignment\IOCbyUnityContainerAssignment\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rucha.Varma\source\repos\IOCbyUnityContainerAssignment\IOCbyUnityContainerAssignment\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Rucha.Varma\source\repos\IOCbyUnityContainerAssignment\IOCbyUnityContainerAssignment\bin\Debug\Unity.Container.pdb
+C:\Users\Rucha.Varma\source\repos\IOCbyUnityContainerAssignment\IOCbyUnityContainerAssignment\obj\Debug\IOCbyUnityContainerAssignment.csprojAssemblyReference.cache
+C:\Users\Rucha.Varma\source\repos\IOCbyUnityContainerAssignment\IOCbyUnityContainerAssignment\obj\Debug\IOCbyUnityContainerAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Rucha.Varma\source\repos\IOCbyUnityContainerAssignment\IOCbyUnityContainerAssignment\obj\Debug\IOCbyUnityContainerAssignment.csproj.CopyComplete
+C:\Users\Rucha.Varma\source\repos\IOCbyUnityContainerAssignment\IOCbyUnityContainerAssignment\obj\Debug\IOCbyUnityContainerAssignment.exe
+C:\Users\Rucha.Varma\source\repos\IOCbyUnityContainerAssignment\IOCbyUnityContainerAssignment\obj\Debug\IOCbyUnityContainerAssignment.pdb
